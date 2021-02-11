@@ -1,6 +1,6 @@
 # Mineria de datos
-#Fase I
+## Fase I
 
-#Fase II
+## Fase II
 
-#Fase III
+## Fase III
