@@ -6,6 +6,8 @@
 
 [Ejercicios básicos de Python](https://github.com/JesusTello024/Mineria-de-datos/blob/main/Ejercicios%20B%C3%A1sicos%20de%20Python.ipynb)
 
+[Ej_Limpieza_Equipo 7](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Ej_Limpieza_Equipo7%20(2).ipynb)
+
 [Avance 1 PIA](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Avance1_PIA_Equipo7.ipynb)
 ## Fase II
 
