@@ -9,6 +9,9 @@
 [Limpieza de datos](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Ej_Limpieza_Equipo7%20(2).ipynb)
 
 [Avance 1 PIA](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Avance1_PIA_Equipo7.ipynb)
+
+[Presentación Reglas de Asociación](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Presentacion_Reglas%20de%20asociaci%C3%B3n_Equipo%207.pdf)
+
 ## Fase II
 
 ## Fase III
