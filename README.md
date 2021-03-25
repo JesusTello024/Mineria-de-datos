@@ -14,7 +14,7 @@
 
 [Mapa Mental II](https://github.com/JesusTello024/Mineria-de-datos/blob/main/Mapa%20Mental%20II.pdf)
 
-[Calificación Mini Examen (Reglas de asociación)](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Calificaci%C3%B3n_Reglasdeasociacion_Equipo7.xlsx)
+[Calificación Mini Examen (Reglas de asociación)](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Calificación_Reglasdeasociacion_Equipo7.pdf)
 
 
 ## Fase III
