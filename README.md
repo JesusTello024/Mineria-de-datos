@@ -12,6 +12,9 @@
 
 [Presentación Reglas de Asociación](https://github.com/Evelinmendoza/Mineria-de-datos/blob/main/Presentacion_Reglas%20de%20asociaci%C3%B3n_Equipo%207.pdf)
 
+[Mapa Mental II](https://github.com/JesusTello024/Mineria-de-datos/blob/main/Mapa%20Mental%20II.pdf)
+
+
 ## Fase II
 
 ## Fase III
