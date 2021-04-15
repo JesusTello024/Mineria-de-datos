@@ -16,5 +16,8 @@
 
 [Calificación Mini Examen (Reglas de asociación)](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Calificación_Reglasdeasociacion_Equipo7.pdf)
 
+[Práctica de visulazación](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/Visualizacion_Equipo7.ipynb)
+
+[Avance 2 PIA](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/AvancePIA_II_Grupo002_Equipo7.ipynb)
 
 ## Fase III
