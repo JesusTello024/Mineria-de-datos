@@ -21,3 +21,4 @@
 [Avance 2 PIA](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/AvancePIA_II_Grupo002_Equipo7.ipynb)
 
 ## Fase III
+[PIA](https://github.com/NathanRAMx/MineriaDeDatos/blob/main/PIA%20Minería%20de%20Datos.pdf)
